@@ -1,0 +1,13 @@
+# Ignore document files
+*.docx
+*.pdf
+*.twbx
+
+# Ignore data files
+*.geojson
+
+# Ignore Docker-related files
+.dockerignore
+
+# Ignore Jupyter Notebook files
+*.ipynb
